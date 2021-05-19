@@ -70,7 +70,7 @@ You need to open a command-line and type in the word python followed by the path
 
 Open your Python Script in Python IDLE and press F5 to run the application.
 
-#Results
+# Results
 
 <img src="Results/CLI_simulation.jpeg" width="500" height="400">
 
